@@ -1,8 +1,9 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to CICD Project live session..!!<font></h1>
-<h2>This is our first CICD Project </h2>
+<h1><font color='red'>Welcome to Ashok IT - Best Software Training Institute in India <font></h1>
+<h2>Learn Here.. Lead Anywhere..!! </h2>
 
-<a href="https://github.com/rootakram/linux-sysadmin-interview-questions">Click Here To See Linux Interview Questions</a>
+<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+
 </body>
 </html>
